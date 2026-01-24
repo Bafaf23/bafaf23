@@ -34,13 +34,14 @@
   </tr>
 </table>
 
+<h2>📊 Métricas</h2>
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td valign="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Bafaf23&show_icons=true&theme=onedark" alt="GitHub Stats" height="170px" />
     </td>
     <td style="border: none;" valign="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=bafaf23&theme=sunset-gradient&card_height=200" alt="GitHub Streak" height="170px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bafaf23&theme=sunset-gradient&card_height=200" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
