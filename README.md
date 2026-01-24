@@ -2,6 +2,20 @@
 ## 👋 Bienvenido
  Soy un desarrollador **Full Stack** [Junior] especializado en programación Web y un apasionado por la experiencia **UI/UX**. Mi objetivo es que tu empresa, emprendimiento o negocio llegue al siguiente nivel a través de la web.
 
+## 🌐 Link de interes
+<p align="center">
+  <a href="https://bafaf23.github.io/portafolio/">
+   <img alt="Static Badge" src="https://img.shields.io/badge/portafolio-orange">
+  </a>
+  <a href="bryantffacen@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/gmail-red">
+  </a>
+  <a href="https://www.instagram.com/bafaf03/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/instagram-purple">
+  </a>
+</p>
+
+ 
 <h2>🛠️ Mi Stack Tecnológico</h2>
 <table align="center">
   <tr>
@@ -39,9 +53,6 @@
   <tr style="border: none;">
     <td valign="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Bafaf23&show_icons=true&theme=onedark" alt="GitHub Stats" height="170px" />
-    </td>
-    <td style="border: none;" valign="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bafaf23&theme=sunset-gradient&card_height=200" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
