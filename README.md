@@ -1,8 +1,10 @@
 <!-- **Bafaf23/bafaf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <table>
   <tr>
-    <td width="200px">
-      <img src="https://github.com" width="200px" style="border-radius: 50%;" alt="Mi Foto"/>
+    <td width="200px" align="center">
+      <kbd>
+        <img src="https://github.com/user-attachments/assets/87a4ddf6-90dc-4048-bd32-c3864e841e8e" width="200px" style="border-radius: 100%; display: block;" alt="Mi Foto"/>
+      </kbd>
     </td>
     <td>
       <h2>👋 Bienvenido</h2>
@@ -10,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## 🚀 Lenguajes
