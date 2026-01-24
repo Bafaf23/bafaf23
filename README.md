@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- **Bafaf23/bafaf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<table>
+  <tr>
+    <td width="200px">
+      <img src="https://github.com" width="200px" style="border-radius: 50%;" alt="Mi Foto"/>
+    </td>
+    <td>
+      <h2>👋 Bienvenido</h2>
+      <p>Soy un desarrollador <b>Full Stack [Junior]</b> especializado en programación Web y un apasionado por la experiencia <b>UI/UX</b>. Mi objetivo es que tu empresa, emprendimiento o negocio llegue al siguiente nivel a través de la web.</p>
+    </td>
+  </tr>
+</table>
 
-<!--
-**Bafaf23/bafaf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Lenguajes
+<p align="center">
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img src="https://i.icoziv.workers.dev/icons?i=js,py,html,css,sass,tailwind" alt="Lenguajes" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Tecnologías y Entornos
+<p align="center">
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img src="https://i.icoziv.workers.dev/icons?i=git,github,vscode,nodejs" alt="Tecnologías" />
+  </a>
+</p>
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bafaf23&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
