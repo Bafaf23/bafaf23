@@ -1,5 +1,7 @@
 <!-- **Bafaf23/bafaf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bryant+-+bafaf23;Developer+-++Full+Stack;Frontend;Backend;+Apasionado+por+la+experiencia+UI%2FUX)](https://git.io/typing-svg)
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bryant+-+bafaf23;Developer+-++Full+Stack;Frontend;Backend;+Apasionado+por+la+experiencia+UI%2FUX" alt="Typing SVG" /></a>
+</h1>
 
 Soy un desarrollador **Full Stack** [Junior] especializado en programación Web y un apasionado por la experiencia **UI/UX**. Mi objetivo es que tu empresa, emprendimiento o negocio llegue al siguiente nivel a través de la web. Si quieres ver más de mi trabajo ve a mi portafolio. 
 
