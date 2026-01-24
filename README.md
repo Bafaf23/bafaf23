@@ -5,7 +5,7 @@
 <h2>🛠️ Mi Stack Tecnológico</h2>
 <table align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
      <h2 align="center">🚀 Lenguajes</h2>
       <p align="center">
         <a href="https://github.com/thuongtruong109/icoziv">
@@ -13,7 +13,7 @@
         </a>
       </p>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h2 align="center">📚 Tecnologías</h2>
       <p align="center">
         <a href="https://github.com/thuongtruong109/icoziv">
