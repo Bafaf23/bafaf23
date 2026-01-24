@@ -7,7 +7,7 @@
   <a href="https://bafaf23.github.io/portafolio/">
    <img alt="Static Badge" src="https://img.shields.io/badge/portafolio-orange">
   </a>
-  <a href="bryantffacen@gmail.com">
+  <a href="https://bryantffacen@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/gmail-red">
   </a>
   <a href="https://www.instagram.com/bafaf03/">
