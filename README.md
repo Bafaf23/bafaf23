@@ -1,6 +1,6 @@
 <!-- **Bafaf23/bafaf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## 👋 Bienvenido
- Soy un desarrollador **Full Stack** [Junior] especializado en programación Web y un apasionado por la experiencia **UI/UX**. Mi objetivo es que tu empresa, emprendimiento o negocio llegue al siguiente nivel a través de la web.
+ Soy un desarrollador **Full Stack** [Junior] especializado en programación Web y un apasionado por la experiencia **UI/UX**. Mi objetivo es que tu empresa, emprendimiento o negocio llegue al siguiente nivel a través de la web. Si quieres ver más de mi trabajo ve a mi portafolio. 
 
 ## 🌐 Link de interes
 <p align="center">
