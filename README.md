@@ -34,5 +34,20 @@
   </tr>
 </table>
 
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Bafaf23&show_icons=true&theme=onedark" alt="GitHub Stats" height="170px" />
+    </td>
+    <td style="border: none;" valign="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=bafaf23&theme=sunset-gradient&card_height=200" alt="GitHub Streak" height="170px" />
+    </td>
+  </tr>
+</table>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bafaf23&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+## 🔍 Actualmente...
+- 🔭 Trabajando en: **[central-app]**
+- 🌱 Aprendiendo: **React y arquitecturas escalables**
+- 💬 Pregúntame sobre: **HTML, CSS, JS**
+- ⚡ Dato curioso: **Me encanta optimizar la experiencia de usuario (UX,UI)**
+
