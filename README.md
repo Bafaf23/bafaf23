@@ -34,7 +34,7 @@ Soy un desarrollador **Full Stack** [Junior] especializado en programación Web 
       <h2 align="center">📚 Tecnologías</h2>
       <p align="center">
         <a href="https://github.com/thuongtruong109/icoziv">
-          <img src="https://i.icoziv.workers.dev/icons?i=git,github,cursor,nodejs" alt="Tecnologías" />
+          <img src="https://i.icoziv.workers.dev/icons?i=git,github,cursor,nodejs,nextjs" alt="Tecnologías" />
         </a>
       </p>
     </td>
