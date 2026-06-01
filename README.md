@@ -1,5 +1,5 @@
 <!-- **Bafaf23/bafaf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1 align="center">
+<h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bryant+-+bafaf23;Developer+-++Full+Stack;Frontend;Backend;+Apasionado+por+la+experiencia+UI%2FUX" alt="Typing SVG" /></a>
 </h1>
 
@@ -26,7 +26,7 @@ Soy un desarrollador **Full Stack** [Junior] especializado en programación Web 
      <h2 align="center">🚀 Lenguajes</h2>
       <p align="center">
         <a href="https://github.com/thuongtruong109/icoziv">
-          <img src="https://i.icoziv.workers.dev/icons?i=js,py,html,css,sass,tailwind,wordpress" alt="Lenguajes" />
+          <img src="https://i.icoziv.workers.dev/icons?i=js,py,html,css,sass,tailwind,php" alt="Lenguajes" />
         </a>
       </p>
     </td>
@@ -39,16 +39,18 @@ Soy un desarrollador **Full Stack** [Junior] especializado en programación Web 
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-     <h2 align="center">🔃 Próximamente</h2>
-      <p align="center">
-        <a href="https://github.com/thuongtruong109/icoziv">
-          <img src="https://i.icoziv.workers.dev/icons?i=reactjs,vuejs,angularjs" alt="Frameworks" />
-        </a>
-      </p>
-    </td>
-  </tr>
+</table>
+<table align="center">
+ <tr>
+  <td width="50%">
+   <h2 align="center"> 🏰 Frontend</h2>
+    <img src="https://i.icoziv.workers.dev/icons?i=js,html,tailwind,nextjs,react" alt="Lenguajes" />
+  </td>
+   <td width="50%">
+   <h2 align="center">⚙️ Backend</h2>
+     <img src="https://i.icoziv.workers.dev/icons?i=ts,js,py,nodejs,express,php,mysql,postgresql" alt="Lenguajes" />
+  </td>
+ </tr>
 </table>
 
 <h2>📊 Métricas</h2>
