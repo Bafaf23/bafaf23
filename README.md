@@ -63,7 +63,7 @@ Soy un desarrollador **Full Stack** [Junior] especializado en programación Web 
 </table>
 
 ## 🔍 Actualmente...
-- 🔭 Trabajando en: **[central-app]**
+- 🔭 Trabajando en: **[SIGACE]**
 - 🌱 Aprendiendo: **React y arquitecturas escalables**
 - 💬 Pregúntame sobre: **HTML, CSS, JS**
 - ⚡ Dato curioso: **Me encanta optimizar la experiencia de usuario (UX,UI)**
